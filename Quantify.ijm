@@ -4,7 +4,7 @@
  //        The intensity treshold is mannually defined by "Min" and "Max" at the begining of the program
  //        Any pixels with in the treshold will be counted as positively stained
  
- //Note: you can also first remove dirt and bubbles using "20151207_removing_dirt.ijm"
+ //Note: you can also first remove debris and bubbles using "Preprocessing.ijm" or "Rename_Preprocessing.ijm"
 
 // Set the arbitary thresdhold. 
 // I chose 75 because it captures most of the positive staining while removes most of the background noise

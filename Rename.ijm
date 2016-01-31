@@ -1,6 +1,6 @@
 //Version 20151207 
 //Purpose: to rename image1-Image9 to image01-Image09
-//         I had a problem with "preprocessing.ijm", because ImageJ thinks "Image2.tif" is after "Image10.tif",
+//         I had a problem with "Preprocessing.ijm", because ImageJ thinks "Image2.tif" is after "Image10.tif",
 //         therefore messing up the order of the images. 
 //         By adding a "0" before the single digit index, ImageJ will be able to process the images in the corect order.
 //Note: I had to save a copy of all the images in a separate folder in order to change the title of the images, which is probably not the smartest way to do it.
